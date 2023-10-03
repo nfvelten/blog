@@ -2,6 +2,7 @@
 
 * [🌞 Welcome](README.md)
 * [🧑💻 About me](about-me.md)
+* [📬 Contact](contact.md)
 
 ## Projects
 

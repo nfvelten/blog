@@ -1,10 +1,24 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1694975452344-51e6ed6f59a2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTYzMDE2NDF8&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb2RlcnxlbnwwfHx8fDE2OTYzMDM4NjV8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🧑💻 About Me
+# 🧑💻 About me
 
 <figure><img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&#x26;size=35&#x26;center=true&#x26;vCenter=true&#x26;width=1000&#x26;lines=Hi,+my+name+is+Nicholas" alt=""><figcaption></figcaption></figure>
 
