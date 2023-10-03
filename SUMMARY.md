@@ -1,4 +1,4 @@
 # Table of contents
 
 * [🌞 Welcome](README.md)
-* [🧑💻 About Me](about-me.md)
+* [🧑💻 About me](about-me.md)
