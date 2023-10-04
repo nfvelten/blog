@@ -1,6 +1,7 @@
 ---
+description: Introducing the "Mate" VS Code Theme by Mate Creations! 🌿💻
 cover: >-
-  https://images.unsplash.com/photo-1585744259332-111384f5def9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxNYXRlfGVufDB8fHx8MTY5NjMwMzgwMHww&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1585744259332-111384f5def9?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxNYXRlfGVufDB8fHx8MTY5NjQzMDYwM3ww&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -19,8 +20,6 @@ layout:
 ---
 
 # 🧉 Mate Theme
-
-Introducing the "Mate" VS Code Theme by Mate Creations! 🌿💻
 
 🚀 Elevate your coding experience to new heights with our Mate Fusion theme, a harmonious blend of technology and the vibrant spirit of Yerba Mate. This theme is designed to make your code come alive, infusing your development environment with a burst of creativity and energy.
 
