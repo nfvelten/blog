@@ -1,8 +1,8 @@
 ---
 description: >-
-  NFTs aren’t everywhere like they were in 2021. That was the peak of digital
-  art sales, celebrity launches, and wild headlines. Some JPEGs were going for
-  millions, and it felt like a gold rush. But onc
+  NFTs aren’t blowing up like they did in 2021. That year was full of
+  record-breaking sales, celeb drops, and nonstop headlines.
+layout: editorial
 ---
 
 # Why NFTs Aren't Dead
