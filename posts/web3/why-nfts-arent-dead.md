@@ -2,7 +2,6 @@
 description: >-
   NFTs aren’t blowing up like they did in 2021. That year was full of
   record-breaking sales, celeb drops, and nonstop headlines.
-layout: editorial
 ---
 
 # Why NFTs Aren't Dead
